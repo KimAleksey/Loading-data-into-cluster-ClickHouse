@@ -13,7 +13,6 @@ logging.basicConfig(
 
 def main():
     # Подключение к CH - clickhouse-01
-    total_time = 0
     start_time = time.time()
     try:
         logging.info("Start - Connecting to ClickHouse.")
