@@ -1,0 +1,11 @@
+<yandex>
+    <users>
+        <default>
+            <password replace="replace">default</password>
+            <profile>default</profile>
+        </default>
+        <readonly>
+            <password replace="replace">readonly</password>
+        </readonly>
+    </users>
+</yandex>
